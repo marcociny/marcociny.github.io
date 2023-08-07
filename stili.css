@@ -1,16 +1,16 @@
 body{
-    background-color: #282b30;
+    background-color: #cccccc;
 }
 h1{
     
     font-size:50px;
     text-align: center;
-    color: #fff;
-    font-family: 'Merriweather';
+    color: #101010;
+    font-family: 'Seravek';
 }
 p{
-    color:#fff;
-    font-family: 'Merriweather';
+    color:#101010;
+    font-family: 'Seravek';
     text-align:center;
     font-size:16px;
 }
